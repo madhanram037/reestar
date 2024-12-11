@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+   padding: 0%;
+ 
+   
+}
+nav{
+   
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+h1{
+    text-align: center;
+    margin-left: 30px;
+    
+}
+li{
+    display: inline-block;
+    color: gray;
+}
+ul{
+    text-align: center;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+p{
+    color:black;
+    text-align: center;
